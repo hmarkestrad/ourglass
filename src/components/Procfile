@@ -1,0 +1,1 @@
+web-build: npx serve web-build

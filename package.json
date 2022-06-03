@@ -29,6 +29,11 @@
     "react-navigation": "^4.4.4",
     "webpack-dev-server": "~3.11.0"
   },
+  "engines": {
+    "node": "8.5.0",
+    "npm": "4.6.1",
+    "expo-cli": "8.5.0"
+    },
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
