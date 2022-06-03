@@ -1,1 +1,1 @@
-web: npm start --web
+web: expo start --web
