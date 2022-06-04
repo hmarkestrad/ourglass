@@ -5,6 +5,7 @@
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "deploy": "gh-pages -d web-build",
+    "clean-source": "rimraf README.md src webroot package.json",
     "predeploy": "expo build:web",
     "start": "expo start --web",
     "android": "expo start --android",
@@ -41,7 +42,8 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+    "gh-pages-deploy": "^0.5.1"
   },
   "private": true
 }
