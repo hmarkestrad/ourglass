@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hmarkestrad/ourglass/precache-manifest.721479fac607067a2492d62e8c5fb071.js"
+  "/hmarkestrad/ourglass.git/precache-manifest.1a8e06adff86a03ae9f6b0a17d0de7a5.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/hmarkestrad/ourglass/index.html", {
+workbox.routing.registerNavigationRoute("/hmarkestrad/ourglass.git/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
