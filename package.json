@@ -1,5 +1,5 @@
 {
-  "homepage": "https://hmarkestrad.github.io/ourglass-app/",
+  "homepage": "https://github.com/hmarkestrad/ourglass.git",
   "name": "ourglass",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
