@@ -1,0 +1,42 @@
+{
+  "homepage": "https://hmarkestrad.github.io/ourglass/",
+  "name": "ourglass",
+  "version": "1.0.0",
+  "description": "ourglass deployment",
+  "main": "App.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmarkestrad/ourglass.git"
+  },
+  "author": "Mark Estrada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmarkestrad/ourglass/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "dependencies": {
+    "babel-preset-expo": "^9.1.0",
+    "react-scripts": "^2.1.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
