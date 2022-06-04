@@ -1,1 +1,1 @@
-web: expo web
+web: npx serve web-build
