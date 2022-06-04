@@ -1,9 +1,9 @@
 {
-  "main.js": "/hmarkestrad/ourglass.git/static/js/main.d2175549.chunk.js",
-  "main.js.map": "/hmarkestrad/ourglass.git/static/js/main.d2175549.chunk.js.map",
-  "runtime~main.js": "/hmarkestrad/ourglass.git/static/js/runtime~main.0b3838b5.js",
-  "runtime~main.js.map": "/hmarkestrad/ourglass.git/static/js/runtime~main.0b3838b5.js.map",
-  "index.html": "/hmarkestrad/ourglass.git/index.html",
-  "precache-manifest.1a8e06adff86a03ae9f6b0a17d0de7a5.js": "/hmarkestrad/ourglass.git/precache-manifest.1a8e06adff86a03ae9f6b0a17d0de7a5.js",
-  "service-worker.js": "/hmarkestrad/ourglass.git/service-worker.js"
+  "main.js": "/ourglass/static/js/main.d2175549.chunk.js",
+  "main.js.map": "/ourglass/static/js/main.d2175549.chunk.js.map",
+  "runtime~main.js": "/ourglass/static/js/runtime~main.8eb882f6.js",
+  "runtime~main.js.map": "/ourglass/static/js/runtime~main.8eb882f6.js.map",
+  "index.html": "/ourglass/index.html",
+  "precache-manifest.e0afd9d0468a3797a79a4dbb89ade2ac.js": "/ourglass/precache-manifest.e0afd9d0468a3797a79a4dbb89ade2ac.js",
+  "service-worker.js": "/ourglass/service-worker.js"
 }
